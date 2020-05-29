@@ -1,0 +1,26 @@
+
+
+.counter-display{
+    width: 300px ;
+    height: 150px;
+    margin: 50px auto;
+    border: 5px solid ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: #b8d8fb;
+    font-size: 25px;
+    text-align: center;
+    font-family: "Arial Black";
+}
+.counter-display span{
+    display: block;
+    font-size: 35px;
+
+}
+.counter-display .displred{
+    color: crimson;
+    font-size: 38px;
+   }
+
